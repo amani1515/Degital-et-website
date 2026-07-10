@@ -30,7 +30,7 @@ export default function Home() {
             🚌 Bus Ticketing System
           </div>
           <h1 style={{ fontSize: "clamp(2rem, 5vw, 3.2rem)", fontWeight: 700, lineHeight: 1.2, marginBottom: "1.2rem" }}>
-            Fast & Simple<br /><span style={{ color: "#90caf9" }}>Bus Tickets</span>
+            Fast & Simple<br /><span style={{ color: "#90caf9" }}>Bus Tickets </span>
           </h1>
           <p style={{ fontSize: "1.1rem", color: "rgba(255,255,255,.82)", lineHeight: 1.7, marginBottom: "2.5rem" }}>
             A modern ticketing platform for town bus agents.<br />
