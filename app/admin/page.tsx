@@ -1,3 +1,5 @@
+"use client";
+
 export default function AdminLogin() {
   return (
     <div style={{ minHeight: "100vh", background: "linear-gradient(135deg, var(--brand) 0%, #1565c0 60%, #1e88e5 100%)", display: "flex", alignItems: "center", justifyContent: "center", padding: "1.5rem" }}>
